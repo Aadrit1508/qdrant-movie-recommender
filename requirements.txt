@@ -1,0 +1,7 @@
+.venv/
+qdrant_storage/
+__pycache__/
+*.py[cod]
+.env
+.streamlit/secrets.toml
+migrate_qdrant.py
