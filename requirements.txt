@@ -1,7 +1,7 @@
-.venv/
-qdrant_storage/
-__pycache__/
-*.py[cod]
-.env
-.streamlit/secrets.toml
-migrate_qdrant.py
+
+streamlit==1.67.0
+pandas
+requests
+joblib
+qdrant-client==1.20.0
+scikit-learn==1.9.1
